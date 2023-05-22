@@ -1,0 +1,328 @@
+[
+  {
+      "officialName": "Abia",
+      "Population": 3727347,
+      "Capital": "Umuahia",
+      "Area": 6320,
+      "Latitude": "5.532003041",
+      "Longitude": "7.486002487",
+      "Number_of_LGAS": 17
+  },
+  {
+      "officialName": "Adamawa",
+      "Population": 4248436,
+      "Capital": "Yola",
+      "Area": 36917,
+      "Latitude": "10.2703408",
+      "Longitude": "13.2700321",
+      "Number_of_LGAS": 21
+  },
+  {
+      "officialName": "Akwa Ibom",
+      "Population": 5482177,
+      "Capital": "Uyo",
+      "Area": 7081,
+      "Latitude": "5.007996056",
+      "Longitude": "7.849998524",
+      "Number_of_LGAS": 31
+  },
+  {
+      "officialName": "Anambra",
+      "Population": 5527809,
+      "Capital": "Awka",
+      "Area": 4844,
+      "Latitude": "6.210433572",
+      "Longitude": "7.06999711",
+      "Number_of_LGAS": 21
+  },
+  {
+      "officialName": "Bauchi",
+      "Population": 6537314,
+      "Capital": "Bauchi",
+      "Area": 49119,
+      "Latitude": "10.3103642",
+      "Longitude": "9.84000891",
+      "Number_of_LGAS": 20
+  },
+  {
+      "officialName": "Bayelsa",
+      "Population": 2277961,
+      "Capital": "Yenagoa",
+      "Area": 21110,
+      "Latitude": "4.664030",
+      "Longitude": "6.036987",
+      "Number_of_LGAS": 8
+  },
+  {
+      "officialName": "Benue",
+      "Population": 5741815,
+      "Capital": "Makurdi",
+      "Area": 34059,
+      "Latitude": "7.729979064",
+      "Longitude": "8.530011351",
+      "Number_of_LGAS": 23
+  },
+  {
+      "officialName": "Borno",
+      "Population": 5860183,
+      "Capital": "Maiduguri",
+      "Area": 57799,
+      "Latitude": "10.62042279",
+      "Longitude": "12.18999467",
+      "Number_of_LGAS": 27
+  },
+  {
+      "officialName": "Cross River",
+      "Population": 3866269,
+      "Capital": "Calabar",
+      "Area": 20156,
+      "Latitude": "4.960406513",
+      "Longitude": "8.330023558",
+      "Number_of_LGAS": 18
+  },
+  {
+      "officialName": "Delta",
+      "Population": 5663362,
+      "Capital": "Asaba",
+      "Area": 17698,
+      "Latitude": "5.890427265",
+      "Longitude": "5.680004434",
+      "Number_of_LGAS": 25
+  },
+  {
+      "officialName": "Ebonyi",
+      "Population":2880383,
+      "Capital": "Abakaliki",
+      "Area": 5533,
+      "Latitude": "6.177973",
+      "Longitude": "7.959286",
+      "Number_of_LGAS": 13
+  },
+  {
+      "officialName": "Edo",
+      "Population": 4235595,
+      "Capital": "Benin City",
+      "Area": 17802,
+      "Latitude": "6.340477314",
+      "Longitude": "5.620008096",
+      "Number_of_LGAS": 18
+  },
+  {
+      "officialName": "Ekiti",
+      "Population": 3270798,
+      "Capital": "Ado Ekiti",
+      "Area": 6353,
+      "Latitude": "7.630372741",
+      "Longitude": " 5.219980834",
+      "Number_of_LGAS": 16
+  },
+  {
+      "officialName": "Enugu",
+      "Population": 4411119,
+      "Capital": "Enugu",
+      "Area": 7161,
+      "Latitude": "6.867034321",
+      "Longitude": "7.383362995",
+      "Number_of_LGAS": 17
+  },
+  {
+      "officialName": "Gombe",
+      "Population": 3256962,
+      "Capital": "Gombe",
+      "Area": 18768,
+      "Latitude": "10.29044293",
+      "Longitude": "11.16995357",
+      "Number_of_LGAS": 11
+  },
+  {
+      "officialName": "Imo",
+      "Population": 5408756,
+      "Capital": "Owerri",
+      "Area": 5530,
+      "Latitude": "5.492997053",
+      "Longitude": " 7.026003588",
+      "Number_of_LGAS": 27
+  },
+  {
+      "officialName": "Jigawa",
+      "Population": 5828163,
+      "Capital": "Dutse",
+      "Area": 23154,
+      "Latitude": "11.7991891",
+      "Longitude": "9.350334607",
+      "Number_of_LGAS": 27
+  },
+  {
+      "officialName": "Kaduna",
+      "Population": 8252366,
+      "Capital": "Kaduna",
+      "Area": 46053,
+      "Latitude": "11.0799813",
+      "Longitude": "7.710009724",
+      "Number_of_LGAS": 23
+  },
+  {
+      "officialName": "Kano",
+      "Population": 13076892,
+      "Capital": "Kano",
+      "Area": 20131,
+      "Latitude": "11.99997683",
+      "Longitude": "8.5200378",
+      "Number_of_LGAS": 44
+  },
+  {
+      "officialName": "Katsina",
+      "Population": 7831319,
+      "Capital": "Katsina",
+      "Area": 24192,
+      "Latitude": "11.5203937",
+      "Longitude": "7.320007689",
+      "Number_of_LGAS": 34
+  },
+  {
+      "officialName": "Kebbi",
+      "Population": 4440050,
+      "Capital": "Birnin Kebbi",
+      "Area": 36800,
+      "Latitude": "12.45041445",
+      "Longitude": "4.199939737",
+      "Number_of_LGAS": 21
+  },
+  {
+      "officialName": "Kogi",
+      "Population": 4473490,
+      "Capital": "Lokoja",
+      "Area": 29833,
+      "Latitude": "7.800388203",
+      "Longitude": "6.739939737",
+      "Number_of_LGAS": 21
+  },
+  {
+      "officialName": "Kwara",
+      "Population": 3192893,
+      "Capital": "Ilorin",
+      "Area": 36825,
+      "Latitude": "8.490010192",
+      "Longitude": "4.549995889",
+      "Number_of_LGAS": 16
+  },
+  {
+      "officialName": "Lagos",
+      "Population": 12550598,
+      "Capital": "Ikeja",
+      "Area": 3577,
+      "Latitude": "6.443261653",
+      "Longitude": "3.391531071",
+      "Number_of_LGAS": 20
+  },
+  {
+      "officialName": "Nasarawa",
+      "Population": 2523395,
+      "Capital": "Lafia",
+      "Area": 27117,
+      "Latitude": "8.490423603",
+      "Longitude": "8.5200378",
+      "Number_of_LGAS": 13
+  },
+  {
+      "officialName": "Niger",
+      "Population": 5556247 ,
+      "Capital": "Minna",
+      "Area": 76363,
+      "Latitude": "10.4003587",
+      "Longitude": "5.469939737",
+      "Number_of_LGAS": 25
+  },
+  {
+      "officialName": "Ogun",
+      "Population": 5217716,
+      "Capital": "Abeokuta",
+      "Area": 16980.55,
+      "Latitude": "7.160427265",
+      "Longitude": "3.350017455",
+      "Number_of_LGAS": 20
+  },
+  {
+      "officialName": "Ondo",
+      "Population": 4671695,
+      "Capital": "Akure",
+      "Area": 15500,
+      "Latitude": "7.250395934",
+      "Longitude": " 5.199982054",
+      "Number_of_LGAS": 18
+  },
+  {
+      "officialName": "Osun",
+      "Population": 4705589,
+      "Capital": "Osogbo",
+      "Area": 9251,
+      "Latitude": "7.629959329",
+      "Longitude": "4.179992634",
+      "Number_of_LGAS": 30
+  },
+  {
+      "officialName": "Oyo",
+      "Population": 7840864,
+      "Capital": "Ibadan",
+      "Area": 28454,
+      "Latitude": "7.970016092",
+      "Longitude": "3.590002806",
+      "Number_of_LGAS": 33
+  },
+  {
+      "officialName": "Plateau",
+      "Population": 4200442,
+      "Capital": "Jos",
+      "Area": 30913,
+      "Latitude": "9.929973978",
+      "Longitude": "8.890041055",
+      "Number_of_LGAS": 17
+  },
+  {
+      "officialName": "Rivers",
+      "Population": 7303924,
+      "Capital": "Port Harcourt",
+      "Area": 11077,
+      "Latitude": "4.810002257",
+      "Longitude": "7.010000772",
+      "Number_of_LGAS": 23
+  },
+  {
+      "officialName": "Sokoto",
+      "Population": 4998090,
+      "Capital": "Sokoto",
+      "Area": 25973,
+      "Latitude": "13.06001548",
+      "Longitude": "5.240031289",
+      "Number_of_LGAS": 23
+  },
+  {
+      "officialName": "Taraba",
+      "Population": 3066834,
+      "Capital": "Jalingo",
+      "Area": 54473,
+      "Latitude": "7.870409769",
+      "Longitude": "9.780012572",
+      "Number_of_LGAS": 16
+  },
+  {
+      "officialName": "Yobe",
+      "Population": 3294137,
+      "Capital": "Damaturu",
+      "Area": 45502,
+      "Latitude": "11.74899608",
+      "Longitude": "11.96600457",
+      "Number_of_LGAS": 17
+  },
+  {
+      "officialName": "Zamfara",
+      "Population": 4515427,
+      "Slogan": "Farming is Our Pride",
+      "Capital": "Gusau",
+      "Area": 39762,
+      "Latitude": "12.1704057",
+      "Longitude": "6.659996296",
+      "Number_of_LGAS": 14
+  }
+]
+
