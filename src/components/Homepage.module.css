@@ -1,0 +1,13 @@
+.card {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.details {
+  cursor: pointer;
+}
+
+.links {
+  text-decoration: none;
+  color: black;
+}
