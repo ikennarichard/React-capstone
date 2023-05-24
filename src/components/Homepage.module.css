@@ -8,24 +8,23 @@
 .card {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  height: 300px;
+  height: 330px;
   overflow: hidden;
-  align-self: flex-end;
 }
 
 .details {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  align-items: end;
+  align-items: flex-end;
   text-align: right;
-  gap: 6px;
+  gap: 60px;
   cursor: pointer;
   transition: color 0.25s;
   background: linear-gradient(10deg, rgb(26, 78, 174) 85%, rgb(38, 48, 164) 98%);
   padding: 1em;
-  height: 150px;
   color: white;
+  border: 1px solid rgb(26, 78, 174);
 }
 
 .details:nth-of-type(even) {
@@ -39,6 +38,7 @@
 .stateName {
   color: white;
   text-transform: uppercase;
+  font-size: 1.3em;
 }
 
 .links {
@@ -47,9 +47,16 @@
 }
 
 input {
-  padding: 1em 0.6em;
-  border: 1px solid black;
+  padding: 1em 0.8em;
+  border: 2px solid darkslategray;
+  border-radius: 2px;
   outline: none;
   margin-top: 5em;
   width: 300px;
+}
+
+@media (min-width: 800px) {
+  .card {
+    grid-template-columns: repeat(4, 1fr);
+  }
 }

@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 import { ChevroLeft, Settiings } from '../icons/icons';
 import styles from './Header.module.css';
 
-export default function NavBar() {
+export default function Header() {
   return (
     <header className={styles.header}>
       <nav>
