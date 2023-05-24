@@ -2,12 +2,13 @@
   padding: 1em 0.5em;
   text-align: right;
   text-transform: uppercase;
+  color: white;
 }
 
 li > div {
   display: flex;
   flex-direction: column;
-  background-color: rgb(248, 250, 253);
+  background-color: #387bc4;
 }
 
 ul > li > div > p {

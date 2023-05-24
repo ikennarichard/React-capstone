@@ -9,3 +9,9 @@
 h1 {
   color: white;
 }
+
+.icons {
+  display: flex;
+  gap: 2em;
+  align-items: center;
+}
