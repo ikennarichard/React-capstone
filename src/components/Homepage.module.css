@@ -8,7 +8,7 @@
 .card {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  height: 330px;
+  height: 400px;
   overflow: hidden;
 }
 
@@ -18,17 +18,18 @@
   justify-content: space-between;
   align-items: flex-end;
   text-align: right;
-  gap: 60px;
+  gap: 10px;
   cursor: pointer;
   transition: color 0.25s;
-  background: linear-gradient(10deg, rgb(26, 78, 174) 85%, rgb(38, 48, 164) 98%);
+  background: linear-gradient(10deg, rgb(26, 66, 141) 85%, rgb(38, 48, 164) 98%);
   padding: 1em;
   color: white;
   border: 1px solid rgb(26, 78, 174);
+  height: 200px;
 }
 
 .details:nth-of-type(even) {
-  background: linear-gradient(10deg, rgb(18, 61, 141) 85%, rgb(93, 103, 198) 98%);
+  background: linear-gradient(10deg, rgb(19, 53, 116) 85%, rgb(54, 61, 120) 98%);
 }
 
 .details:hover {

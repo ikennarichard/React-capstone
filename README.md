@@ -36,8 +36,6 @@
 
 Aircheck is an app were users can vview air quality index for states in Nigeria, it gets information from Open Weather - Air pollution API. This app is part of the capstone project for the React module. Built with React/Redux 
 
-  <!-- ![](./public/screenshot-homepage.PNG) -->
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -77,7 +75,7 @@ Aircheck is an app were users can vview air quality index for states in Nigeria,
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- [Live Demo](https://rich-bookstore.netlify.app/) -->
+[Live Demo](https://rich-air.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

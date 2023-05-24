@@ -11,6 +11,7 @@ body {
   min-height: 100vh;
   display: grid;
   font-family: 'Lato' sans-serif;
+  background-color: rgb(31, 52, 92);
 }
 
 .App {
