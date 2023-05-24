@@ -9,8 +9,7 @@ li > div {
   flex-direction: column;
   gap: 6px;
   background-color: rgb(248, 250, 253);
-  
-} 
+}
 
 ul > li > div > p {
   background-color: #063970;

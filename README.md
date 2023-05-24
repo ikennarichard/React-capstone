@@ -188,6 +188,8 @@ Give a ⭐️ if you like this project!
 
 Hat tip to Microverse team for inspiring this project.
 
+Special thanks to **[Nelson Sakwa](https://www.behance.net/sakwadesignstudio)** for this amazing work.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
