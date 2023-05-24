@@ -10,11 +10,9 @@
 body {
   min-height: 100vh;
   display: grid;
-  justify-content: center;
-  /* font-family: 'Puritan', sans-serif; */
   font-family: 'Lato' sans-serif;
 }
 
 .App {
-  width: 375px;
+  width: 100%;
 }
