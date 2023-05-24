@@ -1,9 +1,9 @@
-import { useParams, NavLink } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import { useEffect, useRef } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import ChevroLeft from '../icons/ChevroLeft';
 import { getCityDetail } from '../redux/apiSlice';
 import List from './List';
+import styles from './Details.module.css';
 
 export default function Details() {
   const { city } = useParams();
@@ -22,24 +22,20 @@ export default function Details() {
   }, [dispatch, city]);
 
   return (
-    <div>
-      <NavLink to="/">
-        <ChevroLeft />
-      </NavLink>
-      <h2>
-        { `${city} State` }
-      </h2>
+    <div className={styles.wrapper}>
       <ul style={{ listStyle: 'none' }}>
         {isLoading ? <li>Loading...</li>
           : details.map((item) => (
             <List
+              city={city}
+              aqi={item.main.aqi}
               no={item.components.no}
               co={item.components.co}
               no2={item.components.no2}
               so2={item.components.so2}
               o3={item.components.o3}
               key={crypto.randomUUID()}
-              aqi={item.main.aqi}
+              pm25={item.components.pm2_5}
             />
           ))}
       </ul>
