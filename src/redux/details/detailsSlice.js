@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-import getCityDetail from '../apiSlice';
+import { getCityDetail } from '../apiSlice';
 import states from '../../states.json';
 
 const initialState = {

@@ -2,7 +2,7 @@
 import { createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const apiKey = 'bd7c27981397af9e6b8c6a649e6bf51a';
+const apiKey = '51eb6c864043a938f7a0f0cb93194722';
 
 export const getCityDetail = createAsyncThunk('details', async (cords) => {
   try {

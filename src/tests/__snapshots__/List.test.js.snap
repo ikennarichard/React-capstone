@@ -1,75 +1,54 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders correctly 1`] = `
-<li>
-  <div>
-    <p>
-      Carbon: 3μg/m3
-    </p>
-    <p>
-      Nitrogen Dioxide: 3μg/m3
-    </p>
-    <p>
-      Nitrogen Monoxide: 3μg/m3
-    </p>
-    <p>
-      Sulphur Dioxide: 5μg/m3
-    </p>
-    <p>
-      Ozone: 4μg/m3
-    </p>
-    <p>
-      Air Quality Index: 3 ()
-    </p>
-  </div>
-</li>
-`;
-
 exports[`renders list item correctly 1`] = `
 <li>
   <div>
-    <p>
-      Carbon: 3μg/m3
+    <h2
+      className="subHeading"
+    >
+      undefined State
+      <br />
+      <small>
+        Air Quality Index: 3 ()
+      </small>
+    </h2>
+    <p
+      className="listItem"
+    >
+      Particulates PM2.5
+      <span>
+         undefined μg/m3
+      </span>
     </p>
     <p>
-      Nitrogen Dioxide: 3μg/m3
+      Carbon:
+      <span>
+        3 μg/m3
+      </span>
     </p>
     <p>
-      Nitrogen Monoxide: 3μg/m3
+      Nitrogen Dioxide:
+      <span>
+        3 μg/m3
+      </span>
     </p>
     <p>
-      Sulphur Dioxide: 5μg/m3
+      Nitrogen Monoxide:
+      <span>
+        3 μg/m3
+      </span>
     </p>
     <p>
-      Ozone: 4μg/m3
+      Sulpher Dioxide:
+      <span>
+        5 μg/m3
+      </span>
     </p>
     <p>
-      Air Quality Index: 3 ()
-    </p>
-  </div>
-</li>
-`;
-
-exports[`renders quote correctly 1`] = `
-<li>
-  <div>
-    <p>
-      Carbon: 3μg/m3
-    </p>
-    <p>
-      Nitrogen Dioxide: 3μg/m3
-    </p>
-    <p>
-      Nitrogen Monoxide: 3μg/m3
-    </p>
-    <p>
-      Sulphur Dioxide: 5μg/m3
-    </p>
-    <p>
-      Ozone: 4μg/m3
-    </p>
-    <p>
-      Air Quality Index: 3 ()
+      Ozone:
+      <span>
+        4 μg/m3
+      </span>
     </p>
   </div>
 </li>
