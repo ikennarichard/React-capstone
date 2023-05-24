@@ -76,6 +76,7 @@ Aircheck is an app were users can vview air quality index for states in Nigeria,
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 [Live Demo](https://rich-air.netlify.app/)
+[Video Demo](https://www.loom.com/share/9ba2dedb65f24ed08feda5e9b73bc1f1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
