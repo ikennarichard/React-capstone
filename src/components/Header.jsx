@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-import { ChevroLeft, Settiings } from '../icons/icons';
+import { ChevroLeft, Settiings, Microphone } from '../icons/icons';
 import styles from './Header.module.css';
 
 export default function Header() {
@@ -11,7 +11,10 @@ export default function Header() {
         </NavLink>
       </nav>
       <h1>aircheck</h1>
-      <Settiings />
+      <div className={styles.icons}>
+        <Microphone />
+        <Settiings />
+      </div>
     </header>
   );
 }
