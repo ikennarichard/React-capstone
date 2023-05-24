@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #5789e4;
+  padding: 0.8em 0;
+}
+
+h1 {
+  color: white;
+}
+
+.icons {
+  display: flex;
+  gap: 2em;
+  align-items: center;
+}

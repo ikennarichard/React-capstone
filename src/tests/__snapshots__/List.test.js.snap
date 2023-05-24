@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders list item correctly 1`] = `
+<li>
+  <div>
+    <h2
+      className="subHeading"
+    >
+      undefined State
+      <br />
+      <small>
+        Air Quality Index: 3 ()
+      </small>
+    </h2>
+    <p
+      className="listItem"
+    >
+      Particulates PM2.5
+      <span>
+         undefined μg/m3
+      </span>
+    </p>
+    <p>
+      Carbon:
+      <span>
+        3 μg/m3
+      </span>
+    </p>
+    <p>
+      Nitrogen Dioxide:
+      <span>
+        3 μg/m3
+      </span>
+    </p>
+    <p>
+      Nitrogen Monoxide:
+      <span>
+        3 μg/m3
+      </span>
+    </p>
+    <p>
+      Sulpher Dioxide:
+      <span>
+        5 μg/m3
+      </span>
+    </p>
+    <p>
+      Ozone:
+      <span>
+        4 μg/m3
+      </span>
+    </p>
+  </div>
+</li>
+`;

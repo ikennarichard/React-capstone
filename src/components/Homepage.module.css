@@ -1,0 +1,63 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4em;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  height: 400px;
+  overflow: hidden;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
+  text-align: right;
+  gap: 10px;
+  cursor: pointer;
+  transition: color 0.25s;
+  background: linear-gradient(10deg, rgb(26, 66, 141) 85%, rgb(38, 48, 164) 98%);
+  padding: 1em;
+  color: white;
+  border: 1px solid rgb(26, 78, 174);
+  height: 200px;
+}
+
+.details:nth-of-type(even) {
+  background: linear-gradient(10deg, rgb(19, 53, 116) 85%, rgb(54, 61, 120) 98%);
+}
+
+.details:hover {
+  border: 1px solid white;
+}
+
+.stateName {
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.3em;
+}
+
+.links {
+  text-decoration: none;
+  color: black;
+}
+
+input {
+  padding: 1em 0.8em;
+  border: 2px solid darkslategray;
+  border-radius: 2px;
+  outline: none;
+  margin-top: 5em;
+  width: 300px;
+}
+
+@media (min-width: 800px) {
+  .card {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

@@ -1,0 +1,34 @@
+.subHeading {
+  padding: 1em 0.5em;
+  text-align: right;
+  text-transform: uppercase;
+  color: white;
+}
+
+li > div {
+  display: flex;
+  flex-direction: column;
+  background-color: #20548b;
+}
+
+ul > li > div > p {
+  background-color: #063970;
+  padding: 1em;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+ul > li > div > p:nth-of-type(even) {
+  background: linear-gradient(30deg, rgb(67, 81, 111) 85%, rgb(71, 75, 118) 98%);
+}
+
+.listItem {
+  margin-top: 5em;
+}
+
+small {
+  font-weight: normal;
+  font-size: 0.6em;
+  text-transform: capitalize;
+}
