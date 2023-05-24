@@ -1,13 +1,55 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4em;
+}
+
 .card {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+  height: 300px;
+  overflow: hidden;
+  align-self: flex-end;
 }
 
 .details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: end;
+  text-align: right;
+  gap: 6px;
   cursor: pointer;
+  transition: color 0.25s;
+  background: linear-gradient(10deg, rgb(26, 78, 174) 85%, rgb(38, 48, 164) 98%);
+  padding: 1em;
+  height: 150px;
+  color: white;
+}
+
+.details:nth-of-type(even) {
+  background: linear-gradient(10deg, rgb(18, 61, 141) 85%, rgb(93, 103, 198) 98%);
+}
+
+.details:hover {
+  border: 1px solid white;
+}
+
+.stateName {
+  color: white;
+  text-transform: uppercase;
 }
 
 .links {
   text-decoration: none;
   color: black;
+}
+
+input {
+  padding: 1em 0.6em;
+  border: 1px solid black;
+  outline: none;
+  margin-top: 5em;
+  width: 300px;
 }
