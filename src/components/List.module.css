@@ -7,7 +7,6 @@
 li > div {
   display: flex;
   flex-direction: column;
-  gap: 6px;
   background-color: rgb(248, 250, 253);
 }
 
